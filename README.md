@@ -5,3 +5,5 @@ Video Chat for 2 peoples.
 3. npm install
 4. npm start
 
+node ver. 14.6
+
